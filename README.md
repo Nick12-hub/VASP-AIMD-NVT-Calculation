@@ -1,1 +1,2 @@
 # VASP-AIMD-NVT-Calculation
+Ab initio molecular dynamics (AIMD) simulation is also performed. The constant molesvolume–temperature (NVT) ensemble with Nosé–Hoover thermostat is adopted at a temperature of 300 K. The time step and total time are 1 fs and 10 ps, respectively. In order to eliminate the eﬀect of the periodic boundary condition in an AIMD simulation with relatively smaller system size, which can artificially increase the stability of structures, a larger supercell (about 100 atoms) should be adopted in the AIMD simulation.
