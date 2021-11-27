@@ -4,7 +4,7 @@ EDIFF = 1.0e-04
 EDIFFG = -0.1
 IBRION = 0  # Molecular dynamic
 ISIF = 2
-MDALGO = 2
+MDALGO = 2  # Nose-Hoover thermostat
 SMASS = 1
 
 NBLOCK = 1
